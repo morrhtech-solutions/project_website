@@ -20,8 +20,8 @@
 <div>
       <div class="Items_under_all_section">
           <div class="All_items">
-          
-          
+            
+
           </div>
 
           <div class="All_items">
@@ -39,12 +39,16 @@
   <div>
       <div class="Items_under_all_section">
           <div class="course_no1">
-          
+          <a href="ican.php">
+         <h1>a</h1>
+        </a>
           
           </div>
 
           <div class="course_no2">
-        
+          <a href="atswa.php">
+             <h1>a</h1>
+          </a>        
 
           </div>
 
