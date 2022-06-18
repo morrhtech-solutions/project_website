@@ -103,7 +103,9 @@
           </div>
 
           <div class="course_no9">
-          
+          <a href="uiux.php">
+                <h1>a</h1>
+            </a> 
 
           </div>
       </div>   
@@ -111,8 +113,24 @@
 
   <div>
       <div class="Items_under_all_section">
-          <div class="course_no10">
+          <div class="course_no14">
+          <a href="web.php">
+                <h1>a</h1>
+            </a> 
           
+          </div>
+
+          <div class="course_no15">
+          <a href="digital.php">
+                <h1>a</h1>
+            </a> 
+          
+          </div>
+
+          <div class="course_no16">
+          <a href="uk_care.php">
+                <h1>a</h1>
+            </a> 
           
           </div>
       </div>   

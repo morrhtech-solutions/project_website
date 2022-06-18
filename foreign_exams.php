@@ -25,32 +25,43 @@
 
   <div class="course_body">
       <div class="Items_under_all_section">
-          <div class="course_no4">
-          
+      <div class="course_no4">
+            <a href="gmat.php">
+                <h1>a</h1>
+            </a> 
           
           </div>
 
           <div class="course_no5">
-        
+          <a href="ielts.php">
+                <h1>a</h1>
+            </a> 
 
           </div>
 
           <div class="course_no6">
-          
+          <a href="toefl.php">
+                <h1>a</h1>
+            </a>           
 
           </div>
      </div>   
 
      <div class="Items_under_foreign_exams_section">
-          <div class="course_no7">
-          
+     <div class="course_no7">
+          <a href="sat.php">
+                <h1>a</h1>
+            </a> 
           
           </div>
 
           <div class="course_no8">
-        
+          <a href="gre.php">
+                <h1>a</h1>
+            </a> 
 
           </div>
+
           <div class="course_no13">
           
           

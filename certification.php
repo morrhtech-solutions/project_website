@@ -25,18 +25,24 @@
 
   <div class="course_body1">
       <div class="Items_under_all_section">
-          <div class="course_no1">
-          
+      <div class="course_no1">
+          <a href="ican.php">
+         <h1>a</h1>
+        </a>
           
           </div>
 
           <div class="course_no2">
-        
+          <a href="atswa.php">
+             <h1>a</h1>
+          </a>        
 
           </div>
 
           <div class="course_no3">
-          
+            <a href="citn.php">
+                <h1>a</h1>
+            </a> 
 
           </div>
       </div>   

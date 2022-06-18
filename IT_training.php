@@ -26,11 +26,22 @@
   <div class="course_body1">
       <div class="Items_under_all_section">
       <div class="course_no9">
-          
+          <a href="uiux.php">
+                <h1>a</h1>
+            </a> 
+
+          </div>
+          <div class="course_no14">
+          <a href="web.php">
+                <h1>a</h1>
+            </a> 
           
           </div>
-          <div class="course_no11">
-          
+
+          <div class="course_no15">
+          <a href="digital.php">
+                <h1>a</h1>
+            </a> 
           
           </div>
       </div>   
