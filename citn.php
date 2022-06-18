@@ -12,7 +12,7 @@
 <?php require "include/header1.php"; ?>
 <!-- CITN Slider -->
 <div class="atswa_slider_div">
-    <img src="images/courses/courses breakdown/citn.png" alt="">
+    <img src="images/courses/courses_breakdown/citn.png" alt="">
 </div>
 
 <div class="schedule_body_for_ATSWA">

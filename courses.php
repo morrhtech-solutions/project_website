@@ -64,17 +64,23 @@
   <div>
       <div class="Items_under_all_section">
           <div class="course_no4">
-          
+            <a href="gmat.php">
+                <h1>a</h1>
+            </a> 
           
           </div>
 
           <div class="course_no5">
-        
+          <a href="ielts.php">
+                <h1>a</h1>
+            </a> 
 
           </div>
 
           <div class="course_no6">
-          
+          <a href="toefl.php">
+                <h1>a</h1>
+            </a>           
 
           </div>
       </div>   

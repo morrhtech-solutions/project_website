@@ -13,7 +13,7 @@
 
 <!-- Ican slider -->
 <div class="ican_slider_div">
-    <img src="images/courses/courses breakdown/ican(1).png" alt="">
+    <img src="images/courses/courses_breakdown/ican(1).png" alt="">
 </div>
 
 <!-- Schedule Starts-->

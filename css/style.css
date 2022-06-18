@@ -817,3 +817,150 @@ html, body{
             background-color: #307AD0;
             margin-left: 200px;
         }
+
+        /* GMAT slider */
+
+        .gmat_slider_div
+         {
+             width: 100%;
+             height: auto;
+         }
+ 
+         .gmat_slider_div img
+         {
+             width: 100%;
+         }
+
+         /* GMAT Styling */
+         .gmat_body
+         {
+            display: flex;
+            padding-top: 60px;
+            padding-bottom: 60px;
+         }
+
+         .gmat_body h3
+         {
+            color: #307AD0;
+            text-align: center;
+         }
+
+         .gmat_body small
+         {
+            color: grey;
+         }
+
+         .figure
+         {
+            color: #307AD0;
+            font-size: 30px;
+            font-weight: 700;
+         }
+
+         .fees_button
+        {
+            padding: 16px 83px;
+            border-radius: 25px;
+            color: white;
+            background-color: #307AD0;
+            margin-left: 95px;
+        }
+
+         .classes
+         {
+            box-shadow: 0px 0px 0.999px black;
+            margin-left: 100px;
+            height: 700px;
+            width: 38%;
+            border-radius: 28px;
+         }
+
+         .physical
+         {
+            margin-left: 10%;
+            margin-right: 10%;
+         }
+
+         .class_schedule
+         {
+            border-color: #12C18A;
+            border: 4px solid;
+            border-style: solid;
+            margin-left: 100px;
+            height: 330px;
+            width: 600px;
+            border-radius: 28px;
+            margin-bottom: 45px;
+            text-align: center;
+            color: #12C18A;
+         }
+
+         .fees_div
+         {
+            margin-bottom: 85px;
+         }
+         .fees
+         {
+            background-image: url(../images/courses/courses_breakdown/gmat2.png);
+            justify-content: center;
+            background-size: cover;
+            height: 350px;
+            width: 1240px;
+            border-radius: 28px;
+            margin-left: auto;
+            margin-right: auto;
+         }
+
+         .fa-4x
+         {
+            color: #307AD0;
+            margin-top: 90px;
+         }
+
+         .fa-3x
+         {
+            color: white;
+         }
+
+         .total_fee
+         {
+            margin-top: 38px;
+         }
+
+         .total_fee h2
+         {
+            color: black;
+         }
+
+         .fees_button_total
+         {
+             padding: 16px 83px;
+             border-radius: 25px;
+             color: white;
+             background-color: #307AD0;
+             margin-left: auto;
+             margin-right: auto;
+         }
+
+         /* pop up */
+         .Ad_div{
+            width: 70%;
+            background-size: cover;
+            background-color: rgb(255, 255, 255);
+            padding: 20px 25px;
+            display: none;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .Ad_div img
+        {
+           height: 80%;
+           width: 100%;
+        }
+
+        .Ad_button
+        {
+            float: right;
+            background-color: red;
+        }

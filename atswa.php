@@ -13,7 +13,7 @@
 
 <!-- ATSWA Slider -->
 <div class="atswa_slider_div">
-    <img src="images/courses/courses breakdown/ATSWA(2).png" alt="">
+    <img src="images/courses/courses_breakdown/ATSWA(2).png" alt="">
 </div>
 
 <div class="schedule_body_for_ATSWA">
