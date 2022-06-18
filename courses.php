@@ -89,12 +89,16 @@
   <div>
       <div class="Items_under_all_section">
           <div class="course_no7">
-          
+          <a href="sat.php">
+                <h1>a</h1>
+            </a> 
           
           </div>
 
           <div class="course_no8">
-        
+          <a href="gre.php">
+                <h1>a</h1>
+            </a> 
 
           </div>
 
