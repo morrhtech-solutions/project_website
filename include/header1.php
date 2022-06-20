@@ -7,8 +7,8 @@
        <li><a href="index.php"> <span class="home_navbar_color"> Home</span></a></li>
        <li><a href="courses.php">Courses</a></li>
        <li><a href="services.php"></i>Services</a></li>
-       <li><a href="######">About Us</a></li>
-       <li><a href="######">Contact Us</a></li>
+       <li><a href="about_us.php">About Us</a></li>
+       <li><a href="contact_us.php">Contact Us</a></li>
    </ul>
 
 <div class="hamburger" id="hamburger_menu">
@@ -21,7 +21,7 @@
        <li><a href="index.php">Home</a></li>
        <li><a href="courses.php">Courses</a></li>
        <li><a href="services.php"></i>Services</a></li>
-       <li><a href="######">About Us</a></li>
-       <li><a href="######">Contact Us</a></li>
+       <li><a href="about_us.php">About Us</a></li>
+       <li><a href="contact_us.php">Contact Us</a></li>
    </ul>
     </div>
