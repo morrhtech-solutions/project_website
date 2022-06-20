@@ -48,40 +48,53 @@
       <h2 class="h2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Courses</h2>
 
       <div class="Courses">
-      <div class="Courses_info">
-          <div class="Courses_item1">
-          <p class="Course_text0">ALL</p>
-          </div>
+          <div class="Courses_info">
+            <a href="courses.php">
+              <div class="Courses_item1">
+                       <p class="Course_text0">ALL</p>
+              </div>
+              </a>
 
+              <a href="partners.php">
           <div class="Courses_item2">
           <p class="Course_text">PARTNERS</p>
           </div>
+          </a>
         </div>
 
       </div>
 
       <div class="Courses">
-      <div class="Courses_info">
-          <div class="Courses_item3">
-             <div>
-          <p class="Course_text1">CERTIFICATION</p><small>5 Courses</small></div>
-          </div>
+        <div class="Courses_info">
+            <a href="certification.php">
+                <div class="Courses_item3">
+                    <div>
+                      <p class="Course_text1">CERTIFICATION</p><small>5 Courses</small>
+                    </div>
+                </div>
+            </a>
 
-          <div class="Courses_item4">
-          <div>
-          <p class="Course_text1">I.T TRAINING</p><small>3 Courses</small></div>
-          </div>
+            <a href="IT_training.php">
+              <div class="Courses_item4">
+                  <div>
+                    <p class="Course_text1">I.T TRAINING</p><small>3 Courses</small>
+                  </div>
+                </div>
+            </a>
         </div>
       </div>
 
       <div class="Courses">
-      <div class="Courses_info">
-          <div class="Courses_item5">
-             <div>
-             <p class="Course_text1">FOREIGN</p><small>4 Courses</small></div>
+          <div class="Courses_info">
+             <a href="foreign_exams.php">
+               <div class="Courses_item5">
+                  <div>
+                      <p class="Course_text1">FOREIGN</p><small>4 Courses</small>
+                  </div>
+               </div>
+             </a>
           </div>
       </div>
-</div>
 
   </div>
   <!-- Courses Ends -->
