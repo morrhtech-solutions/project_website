@@ -34,3 +34,14 @@ $('#Ad_button_2').click(function(){
    $('.gmat_body').show();
    $('.header_section').show();
 });
+
+
+$('#new').click(function(){
+   $('.Ad_div_21').show();
+   $('.ican_slider_div').hide(); 
+});
+
+$('#Ad_button_21').click(function(){
+   $('.Ad_div_21').hide();
+   $('.hide_body').show();
+});

@@ -1048,6 +1048,29 @@ html, body{
             border-radius: 15px;
         }
 
+        .Ad_div_21{
+            width: 90%;
+            background-size: cover;
+            background-color: rgb(255, 255, 255);
+            padding: 20px 25px;
+            
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .Ad_div_21 img
+        {
+           height: 100%;
+           width: 100%;
+        }
+
+        .Ad_button_21
+        {
+            float: left;
+            background-color: #307AD0;
+            border-radius: 15px;
+        }
+
         /* UIUX */
         .physical_class
         {
