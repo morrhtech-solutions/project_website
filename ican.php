@@ -10,7 +10,24 @@
 </head>
 <body>
 <?php require "include/header1.php"; ?>
-<div class="hide_body">
+
+<!-- second ad -->
+<div class="Ad_div_21">
+<button class="Ad_button_21" id="Ad_button_21"><i class="fa-solid fa-arrow-left fa-3x"></i></button>
+<img src="images/courses/courses_breakdown/1(rs).png" alt="">   
+</div>
+
+<div class="Ad_div_22">
+<button class="Ad_button_22" id="Ad_button_22"><i class="fa-solid fa-arrow-left fa-3x"></i></button>
+<img src="images/courses/courses_breakdown/2(rs).png" alt="">   
+</div>
+
+<div class="Ad_div_23">
+<button class="Ad_button_23" id="Ad_button_23"><i class="fa-solid fa-arrow-left fa-3x"></i></button>
+<img src="images/courses/courses_breakdown/3(rs).png" alt="">   
+</div>
+
+
 <!-- Ican slider -->
 <div class="ican_slider_div">
     <img src="images/courses/courses_breakdown/ican(1).png" alt="">
@@ -19,7 +36,7 @@
 <!-- Schedule Starts-->
 <div class="schedule_body">
 <!-- Foundation Leevel -->
-<div class="schedule_container" id="new">
+<div class="schedule_container">
      <h2 class="schedule">SCHEDULE OUTLINE</h2>
      <h3 class="topics">Foundation Level</h3>
      <ul class="listed_items">
@@ -32,7 +49,7 @@
        <li>Business Law</li>
      </ul>
      <br>
-     <p>*Select and enroll for courses here  <button class="new_student_button">New Students</button> <button class="returning_student_button">Returning Students</button></p>
+     <p id="new">*Select and enroll for courses here  <button class="new_student_button">New Students</button> <button class="returning_student_button">Returning Students</button></p>
 </div>
 
 <!-- Skills Level -->
@@ -52,7 +69,7 @@
 
 
      <br>
-     <p>*Select and enroll for courses here    <button class="new_student_button">New Students</button> <button class="returning_student_button">Returning Students</button><p>
+     <p id="new1">*Select and enroll for courses here    <button class="new_student_button">New Students</button> <button class="returning_student_button">Returning Students</button><p>
 </div>
 
 <!-- Proffesional Level -->
@@ -70,22 +87,19 @@
         <li>Case Study</li>
      </ul>
      <br>
-     <p>*Select and enroll for courses here  <button class="new_student_button">New Students</button> <button class="returning_student_button">Returning Students</button></p>
+     <p id="new2">*Select and enroll for courses here  <button class="new_student_button">New Students</button> <button class="returning_student_button">Returning Students</button></p>
 </div>
 
 </div>
 <!-- Schedule Ends-->
-</div>
 
 
-<!-- second ad -->
-<div class="Ad_div_21">
-<button class="Ad_button_21" id="Ad_button_2"><i class="fa-solid fa-arrow-left fa-3x"></i></button>
-<img src="images/courses/courses_breakdown/1(rs).png" alt="">   
-</div>
 
-<script src="javascript/script.js"></script>
+
 
 <?php require "include/footer.php"; ?>
+
+
+<script src="javascript/script.js"></script>
 </body>
 </html>

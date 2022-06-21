@@ -10,8 +10,28 @@
 </head>
 <body>
 <?php require "include/header1.php"; ?>
+
+<!-- Hidden Ads Starts -->
+<div class="Ad_div_21">
+<button class="Ad_button_21" id="Ad_button_21"><i class="fa-solid fa-arrow-left fa-3x"></i></button>
+<img src="images/courses/courses_breakdown/111(rs).png" alt="">   
+</div>
+
+<div class="Ad_div_22">
+<button class="Ad_button_22" id="Ad_button_22"><i class="fa-solid fa-arrow-left fa-3x"></i></button>
+<img src="images/courses/courses_breakdown/222(rs).png" alt="">   
+</div>
+
+<div class="Ad_div_23">
+<button class="Ad_button_23" id="Ad_button_23"><i class="fa-solid fa-arrow-left fa-3x"></i></button>
+<img src="images/courses/courses_breakdown/333(rs).png" alt="">   
+</div>
+<!-- Hidden Ads End -->
+
+
+
 <!-- CITN Slider -->
-<div class="atswa_slider_div">
+<div class="ican_slider_div">
     <img src="images/courses/courses_breakdown/citn.png" alt="">
 </div>
 
@@ -30,7 +50,7 @@
        <li>Econnomics</li>
      </ul>
      <br>
-     <p>*Select and enroll for courses here  <button class="enroll_button">Enroll now</button> </p>
+     <p>*Select and enroll for courses here  <button class="enroll_button" id="new">Enroll now</button> </p>
 </div>
 
 <!-- PROFESSIONAL TAX I -->
@@ -48,7 +68,7 @@
 
 
      <br>
-     <p>*Select and enroll for courses here    <button class="enroll_button">Enroll now</button> <p>
+     <p>*Select and enroll for courses here    <button class="enroll_button" id="new1">Enroll now</button> <p>
 </div>
 
 <!-- PROFESSIONAL TAX II -->
@@ -64,7 +84,7 @@
         <li>Income Tax For Specialized Business</li>
      </ul>
      <br>
-     <p>*Select and enroll for courses here  <button class="enroll_button">Enroll now</button> </p>
+     <p>*Select and enroll for courses here  <button class="enroll_button" id="new2">Enroll now</button> </p>
 </div>
 
 </div>
@@ -72,5 +92,7 @@
 
 <?php require "include/footer.php"; ?>
 
+
+<script src="javascript/script.js"></script>
 </body>
 </html>
