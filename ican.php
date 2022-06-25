@@ -69,7 +69,7 @@
 
 
      <br>
-     <p id="new1">*Select and enroll for courses here    <button class="new_student_button">New Students</button> <button class="returning_student_button">Returning Students</button><p>
+     <p id="new1">*Select and enroll for courses here  <button class="new_student_button">New Students</button> <button class="returning_student_button">Returning Students</button><p>
 </div>
 
 <!-- Proffesional Level -->

@@ -14,8 +14,55 @@
 <div class="gmat_slider_div">
     <img src="images/courses/courses_breakdown/uk_care.png" alt="">
 </div>
+<h2 class="h2_tag">COURSES</h2>
+<div class="uk_care_block">
+<div class="uk_care_form">
+    <div class="left_hs">
+        <h4>CARE CERTIFICATION</h4><br> 
+        <h4>SAFE GAURDING CHILDERN</h4><br>
+        <p>SUPPORTING CHILDERN WITH LEARNING <br>DIFFICULITIES AND DISABILITIES</p><br>
+        <p>FIRE SAFETY AWARENESS</p><br>
+        <P>CHILDERN'S MENTAL HEALTH</P><br>
+        <P>DEMENTIA AWARENESS</P><br>
+        <P>CHILD DEVELOPMENT</P><br>
+        <P>CUSTOMER SERVICE SKILLS</P><br><br>
+</div>
 
-<img src="images/courses/courses_breakdown/uk_care(1).png" alt="">
+<div class="check_box_div">
+<input type="checkbox" class="check_box"><br><br><br>
+<input type="checkbox" class="check_box"><br><br><br>
+<input type="checkbox" class="check_box"><br><br><br>
+<input type="checkbox" class="check_box"><br><br>
+<input type="checkbox" class="check_box"><br><br>
+<input type="checkbox" class="check_box"><br><br>
+<input type="checkbox" class="check_box"><br><br><br>
+<input type="checkbox" class="check_box"><br><br>
+<div class="vl"></div>
+</div>
+    
+    <div class="right_hs">
+        <P>SAFEGUARDING VULNERABLE ADULTS</P><br>
+        <P>INFERCTION CONTROL</P><br>
+        <p>MENTAL HEALTH AWARENESS</p><br>
+        <p>WORKPLACE FIRST AID</p><br>
+        <P>PAEDATIC FIRST AID TRAINING</P><br>
+        <P>AUTISM AWARENESS</P><br>
+        <P>ELECTRICAL SAFETY AWARENESS</P><br>
+        <P>WAREHOUSE SAFETY COURSES</P>
+</div>
+<div class="check_box_div_2">
+<input type="checkbox" class="check_box"><br><br><br>
+<input type="checkbox" class="check_box"><br><br><br>
+<input type="checkbox" class="check_box"><br><br><br>
+<input type="checkbox" class="check_box"><br><br>
+<input type="checkbox" class="check_box"><br><br>
+<input type="checkbox" class="check_box"><br><br>
+<input type="checkbox" class="check_box"><br><br><br>
+<input type="checkbox" class="check_box"><br><br>
+</div>
+</div>
+<div class="uk_care_button_block"><button class="no_flex">Register</button></div>
+</div>
 
 
 <div class="positon"><img src="images/courses/courses_breakdown/uk_care(3).png" alt=""></div>
