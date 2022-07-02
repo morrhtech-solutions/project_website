@@ -367,13 +367,42 @@ html, body{
     {
          width: 270px;
          height: 280px;
-         background-image: url(../images/review.png);
+         background-image: url(../images/review11.jpeg);
          background-repeat: no-repeat;
          box-shadow: 0px 0px 0.999px black;
          margin: 0px 20px;
          overflow: hidden;
          display: flex;  
-         border-radius: 30px
+         border-radius: 30px;
+         background-size: cover;
+    }
+
+    .Review_content1
+    {
+         width: 270px;
+         height: 280px;
+         background-image: url(../images/review22.jpeg);
+         background-repeat: no-repeat;
+         box-shadow: 0px 0px 0.999px black;
+         margin: 0px 20px;
+         overflow: hidden;
+         display: flex;  
+         border-radius: 30px;
+         background-size: cover;
+    }
+
+    .Review_content2
+    {
+         width: 270px;
+         height: 280px;
+         background-image: url(../images/review33.jpeg);
+         background-repeat: no-repeat;
+         box-shadow: 0px 0px 0.999px black;
+         margin: 0px 20px;
+         overflow: hidden;
+         display: flex;  
+         border-radius: 30px;
+         background-size: cover;
     }
 
     .h2
@@ -1173,12 +1202,12 @@ html, body{
          .uk_care_form
          {
             display: flex;
-            width: 80%;
+            width: 900px;
             background-color: white;
             border-radius: 26px;
             margin-left: auto;
             margin-right: auto;
-            height: 700px;
+            min-height: 700px;
          }
 
          .vl {
@@ -1195,7 +1224,6 @@ html, body{
           {
             float: left;
             justify-content: left;
-            margin-right: px;
           }
 
           .right_hs
@@ -1218,8 +1246,7 @@ html, body{
 
           .check_box_div_2
           {
-            margin-left: 140px;
-            
+            margin-left: 140px; 
           }
 
           .no_flex
@@ -1244,6 +1271,8 @@ html, body{
             justify-content: center;
             border-radius: 28px;
             margin-bottom: 60px;
+            min-height: 700px;
+            width: auto;
           }
 
           .h2_tag{
@@ -1731,6 +1760,10 @@ html, body{
                 padding: 14px 33px;
             }
 
+            .vl
+            {
+                display: none;
+            }
             
         }
 
@@ -1806,6 +1839,15 @@ html, body{
             min-height: 750px;
             width: 500px;
         }
+
+        .no_flex
+        {
+            margin-left: 0%;
+            margin-right: 0%;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
         }
 
         @media only screen and (max-width:1212px){
@@ -1838,6 +1880,16 @@ html, body{
             height: 300px;
             width: 950px;
          }
+
+         .uk_care_form
+         {
+            flex-wrap: wrap;
+         }
+
+         .check_box_div_2
+          {
+            margin-left: 160px; 
+          }
         }
 
         @media only screen and (max-width:959px){
@@ -1854,6 +1906,16 @@ html, body{
             height: 250px;
             width: 600px;
          }
+
+         .check_box_div
+          {
+            margin-left: 160px; 
+          }
+
+         .check_box_div_2
+          {
+            margin-left: 100px; 
+          }
         }
 
         @media only screen and (max-width:613px){

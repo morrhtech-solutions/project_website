@@ -36,7 +36,7 @@
           <div class="Archievment_items">
           <i class="fa-solid fa-star fa-2x"></i>
                   <div>
-                     <p>Several Awards Won And Still Counting</p>
+                     <p>Awards Won And Still Counting</p>
                   </div>
           </div>
       </div>   
@@ -130,11 +130,11 @@
             
           </div>
 
-          <div class="Review_content">
+          <div class="Review_content1">
            
           </div>
 
-          <div class="Review_content">
+          <div class="Review_content2">
              
           </div>
       </div>   
@@ -147,11 +147,9 @@
           <div class="image_and_writeup">
              <img src="images/review1.jpeg" alt="">
              <div>
-               <p class="text">We Have A Team Of Accountants Readily Available To You For Audit And Counseling Services</p>
+               <p class="text">We have a team of Thoroughbred proffesionals readily available to you for Consultation and Counseling services.</p>
              </div>
-             <div class="button_div">
-               <button class="button">Details</button>
-             </div>
+             
           </div>           
         ...
      </div>

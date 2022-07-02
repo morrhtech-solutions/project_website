@@ -19,7 +19,7 @@
 <div class="uk_care_form">
     <div class="left_hs">
         <h4>CARE CERTIFICATION</h4><br> 
-        <h4>SAFE GAURDING CHILDERN</h4><br>
+        <h4>SAFE GUARDING CHILDERN</h4><br>
         <p>SUPPORTING CHILDERN WITH LEARNING <br>DIFFICULITIES AND DISABILITIES</p><br>
         <p>FIRE SAFETY AWARENESS</p><br>
         <P>CHILDERN'S MENTAL HEALTH</P><br>
@@ -65,7 +65,11 @@
 </div>
 
 
-<div class="positon"><img src="images/courses/courses_breakdown/uk_care(3).png" alt=""></div>
+
+<div class="fees">
+        <!-- The image is in the CSS -->
+        <img src="images/courses/courses_breakdown/uk_care(3).jpeg" alt="">
+    </div>
    <div class="footer_section"> <?php require "include/footer.php"; ?> </div>
 
 
