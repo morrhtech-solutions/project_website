@@ -59,11 +59,10 @@
 </div>
 
 
-<div class="fees_div">
-    <div class="fees">
+<div class="fees">
         <!-- The image is in the CSS -->
+        <img src="images/courses/courses_breakdown/gmat2.png" alt="">
     </div>
-</div>
 
 
    <div class="footer_section"> <?php require "include/footer.php"; ?> </div>

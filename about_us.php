@@ -16,9 +16,9 @@
 </div>
 <img src="images/about/stage11.png" width="100%" alt="">
 
-<img src="images/about/stage12.png" width="100%" alt=""><br><br><br><br><br><br>
+<img src="images/about/stage12.png" width="100%" alt="">
 
-<div class="positon"><img src="images/about/stage13.png" alt=""></div>
+<img src="images/about/stage13.png" width="100%" alt="">
 
    <div class="footer_section"> <?php require "include/footer.php"; ?> </div>
 

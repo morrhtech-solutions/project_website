@@ -58,11 +58,10 @@
 </div>
 
 
-<div class="fees_div">
-    <div class="fees">
+<div class="fees">
         <!-- The image is in the CSS -->
+        <img src="images/courses/courses_breakdown/gmat2.png" alt="">
     </div>
-</div>
 
 <!-- Ad section starts -->
 <div class="Ad_div">

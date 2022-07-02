@@ -32,7 +32,7 @@
     <p>Terms Of Services For Forigen Exams <br> Student Regulation And Code Of Conduct</p>
              </div>
 
-             <div class="footer_column">
+             <div class="footer_column11">
                  <h4>Private Policies</h4>
     <p>Terms Of Services For Forigen Exams <br> Student Regulation And Code Of Conduct</p>
              </div>

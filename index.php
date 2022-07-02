@@ -141,26 +141,28 @@
   </div>
 
   <!-- Our Team -->
+  <div class="fees"></div>
      <div class="Our_team_div">
      .. <br><br><br>.
           <div class="image_and_writeup">
              <img src="images/review1.jpeg" alt="">
              <div>
-               <p class="text">We Have A Team Of Accountants Readily Available To You For Audit <br> And Counseling Services</p>
+               <p class="text">We Have A Team Of Accountants Readily Available To You For Audit And Counseling Services</p>
              </div>
              <div class="button_div">
-               <button class="button">Details -></button>
+               <button class="button">Details</button>
              </div>
           </div>           
         ...
      </div>
   </div>
+</div>
 <!-- Our Team Ends -->
 
 <!-- footer -->
 <div>.</div>
 <?php require "include/footer.php"; ?>
 
-
+<script src="javascript/script.js"></script>
 </body>
 </html>

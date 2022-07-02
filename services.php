@@ -18,7 +18,10 @@
 
 <img src="images/services/stage(3).png" width="100%" alt=""><br><br><br><br><br><br>
 
-<div class="positon"><img src="images/services/stage(4).jpeg" alt=""></div>
+<div class="fees">
+        <!-- The image is in the CSS -->
+        <img src="images/services/stage(4).jpeg" alt="">
+    </div>
 
 <img src="images/services/stage(5).jpeg" width="100%" alt="">
    <div class="footer_section"> <?php require "include/footer.php"; ?> </div>

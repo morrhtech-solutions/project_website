@@ -2,7 +2,7 @@ $('#schedule').click(function(){
     $('.Ad_div').show();
     $('.gmat_slider_div').hide();
     $('.footer_section').hide();
-    $('.fees_div').hide();
+    $('.fees').hide();
     $('.gmat_body').hide();
     $('.header_section').hide();
  });
@@ -11,7 +11,7 @@ $('#schedule').click(function(){
     $('.Ad_div').hide();
     $('.gmat_slider_div').show();
     $('.footer_section').show();
-    $('.fees_div').show();
+    $('.fees').show();
     $('.gmat_body').show();
     $('.header_section').show();
  });
@@ -21,7 +21,7 @@ $('#schedule').click(function(){
    $('.Ad_div_2').show();
    $('.gmat_slider_div').hide();
    $('.footer_section').hide();
-   $('.fees_div').hide();
+   $('.fees').hide();
    $('.gmat_body').hide();
    $('.header_section').hide();
 });
@@ -30,7 +30,7 @@ $('#Ad_button_2').click(function(){
    $('.Ad_div_2').hide();
    $('.gmat_slider_div').show();
    $('.footer_section').show();
-   $('.fees_div').show();
+   $('.fees').show();
    $('.gmat_body').show();
    $('.header_section').show();
 });
@@ -83,3 +83,7 @@ $('#Ad_button_23').click(function(){
    $('.footer1').show();
    $('.header_container').show();
 });
+
+$('#hamburger_menu').click(function(){
+   $('#dropdown_menu').slideToggle(800);
+ });
