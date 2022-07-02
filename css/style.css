@@ -365,7 +365,7 @@ html, body{
 
     .Review_content
     {
-         width: 270px;
+         width: 300px;
          height: 280px;
          background-image: url(../images/review11.jpeg);
          background-repeat: no-repeat;
@@ -379,7 +379,7 @@ html, body{
 
     .Review_content1
     {
-         width: 270px;
+         width: 300px;
          height: 280px;
          background-image: url(../images/review22.jpeg);
          background-repeat: no-repeat;
@@ -393,7 +393,7 @@ html, body{
 
     .Review_content2
     {
-         width: 270px;
+         width: 300px;
          height: 280px;
          background-image: url(../images/review33.jpeg);
          background-repeat: no-repeat;
@@ -420,10 +420,11 @@ html, body{
    .image_and_writeup
     {
          max-width: 1000px;
-         
+         margin-left: auto;
+         margin-right: auto;
          background-color: whitesmoke;
          background-repeat: no-repeat;
-         margin: 0px 12%;
+         margin: auto;
          overflow: hidden;
          display: flex;  
          justify-content: center;  

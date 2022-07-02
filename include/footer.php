@@ -7,7 +7,7 @@
              </div>
  
              <div class="footer_column">
-                 <h4>Parteners</h4>
+                 <h4>Partners</h4>
     <p>UK Care <br> Certification</p>
              </div>
 
