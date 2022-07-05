@@ -24,7 +24,7 @@
                         <div class="Archievment_items">
 
                                 <i class="fa-solid fa-chart-column fa-2x"></i>
-                                <p class="item-text">13 Years Of Experience And Still Counting </p>
+                                <p class="item-text">9 Years Of Experience And Still Counting </p>
 
                         </div>
 
